@@ -101,6 +101,6 @@ Six unseen query categories (`koala`, `school bus`, `pizza`, `beacon`, `basketba
 
 <div align="center">
 
-[Open Visual Search Engine](https://abdulqader-alshihabi.github.io/Visual-Similarity-Search/) &nbsp;|&nbsp; [Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi**
+[Open Visual Search Engine](https://abdulqader-alshihabi.github.io/Visual-Similarity-Search/) &nbsp;|&nbsp; [Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi**
 
 </div>
